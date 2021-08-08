@@ -11,5 +11,7 @@ You’ll learn how to evaluate the business value of an AI product. You’ll sta
 I am sharing my project files with you for learning purpose. Please don't abuse them. Udacity authorities will verify your work to full their code of conduct.
 
 [Create Dataset](https://github.com/mamuncseru/ai-product-manager/tree/main/Creating%20Dataset%20Project)
+
 [Building model with AUTOML](https://github.com/mamuncseru/ai-product-manager/tree/main/Building%20a%20Model%20with%20AutoML%20Project)
+
 [Capstone](https://github.com/mamuncseru/ai-product-manager/tree/main/Capstone%20Project)
